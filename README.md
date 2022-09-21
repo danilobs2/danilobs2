@@ -9,13 +9,10 @@
   <a href="https://www.linkedin.com/in/danilo-barross" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobs2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
+  
+<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobs2&layout=compact&langs_count=7&theme=white"/>
 
-<div>
-  <a href="https://github.com/danilobs2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobs2&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobs2&layout=compact&langs_count=7&theme=white"/>
-</div>
   
 <hr>
   
