@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danilobs2&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
   
-<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobs2&layout=compact&langs_count=7&theme=white"/>
+<img height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobs2&layout=compact&langs_count=7&theme=highcontrast"/>
 
   
 <hr>
