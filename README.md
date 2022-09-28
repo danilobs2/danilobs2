@@ -1,4 +1,4 @@
-### Front-End Developer | HTML | CSS | JavaScript | Git | Python fundamentos para análise de dados
+### Front-End Developer | HTML | CSS | JavaScript | Git | Python fundamentos ciencia  e análise de dados.
 
 - 👋 Olá, seja bem vindo pode me chamar de Danilo;
 - 👀 A tecnologia faz a diferença em minha vida;
